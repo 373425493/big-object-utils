@@ -1,0 +1,27 @@
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+#log/
+target/
+
+# out
+**/out/
+
+/logs/
+/cube-compute-repair/logs/
+/derby.log
+/cube-compute-repair/src/main/resources/logs/
+/cube-compute-repair/src/main/resources/derby.log
+/cube-compute-repair/derby.log
